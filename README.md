@@ -1,4 +1,12 @@
-# GA4 Data Analysis in Excel
+# GA4 Data Analysis Excel
+
+## Dashboard Preview
+
+### Total Revenue
+![Total Revenue](Total Revenue.jpeg)
+
+### All Conversions
+![All Conversions](All Conversions.jpeg)
 
 ## Project Overview
 This project analyzes Google Analytics 4 (GA4) data using Microsoft Excel.
