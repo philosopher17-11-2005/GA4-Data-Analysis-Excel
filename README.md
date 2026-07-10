@@ -20,7 +20,15 @@ To analyze website performance by tracking Total Revenue and Conversions using a
 - Conversion Chart
 - Business Insights
 - Interactive Excel Dashboard
+  
+## Key Insights
 
+- Analyzed Google Analytics 4 (GA4) website performance data.
+- Tracked Total Revenue to measure business performance.
+- Monitored All Conversions to evaluate marketing effectiveness.
+- Built an interactive Excel dashboard using charts and data visualization.
+- Converted raw GA4 data into meaningful business insights.
+  
 ## Tools Used
 - Microsoft Excel
 - Google Analytics 4 (GA4)
